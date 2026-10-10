@@ -1,0 +1,9 @@
+{
+  "name": "siftnodes-public-bot-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional static info page for the SiftNodes Discord bot",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
